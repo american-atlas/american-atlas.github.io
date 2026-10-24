@@ -1,0 +1,10 @@
+:HL["/_next/static/chunks/08sk33ocnl83l.css","style"]
+:HL["/_next/static/media/5f402bd2d8eef81a-s.p.40bho2kviej2o.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9433d1a810498265-s.p.1hij5ex6k3v9q.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9c72aa0f40e4eef8-s.p.1y4-pdgsjb-pw.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/images/mayflower-compact.jpg","image",{"fetchPriority":"high"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"id","t":"d","k":"mayflower-compact","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"entry","h":131168,"c":"$Q2"}]]
+0:{"b":"-166VpY0Rk_DxI3n6lnSE","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
