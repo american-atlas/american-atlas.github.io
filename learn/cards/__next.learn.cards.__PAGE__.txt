@@ -1,0 +1,31 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/0umf92h1sb77c.js"
+4:"/_next/static/chunks/2z1af6eddsqon.js"
+5:I[39756,["$3","$4"],"default"]
+6:I[37457,["$3","$4"],"default"]
+d:"/_next/static/chunks/0_o_8b2b1in2y.js"
+e:I[22016,["$3","$4","$d"],""]
+f:I[53678,["$3","$4","$d"],"DeckManager"]
+10:I[97367,["$3","$4"],"OutletBoundary"]
+11:"$Sreact.suspense"
+14:"ViewportBoundary"
+15:I[97367,["$3","$4"],"$14"]
+16:"MetadataBoundary"
+17:I[97367,["$3","$4"],"$16"]
+18:I[27201,["$3","$4"],"IconMark"]
+8:X
+b:X
+b:C
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"mx-auto max-w-2xl px-4 pt-4 sm:px-6","children":[["$","$Le",null,{"href":"/learn/","className":"-ml-2 mb-3 inline-flex min-h-10 items-center gap-1.5 rounded-full px-2 text-sm font-medium text-ink-2 hover:text-ink","children":[["$","svg",null,{"viewBox":"0 0 24 24","width":18,"height":18,"fill":"none","stroke":"currentColor","strokeWidth":1.6,"strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","focusable":"false","children":["$","path",null,{"d":"M19 12H5M11 6l-6 6 6 6"}]}]," Learn"]}],["$","h1",null,{"className":"sr-only","children":"My cards"}],["$","$Lf",null,{}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0_o_8b2b1in2y.js","async":true}]],["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":"$@13","v":null,"s":"$8"}}]]
+9:[["children",{"s":"cards","h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@a","v":"$b","s":"$8"},"c":"$Qc"}]]
+1:[["children",{"s":"learn","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","div",null,{"translate":"no","className":"notranslate","children":["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]}]]}],"p":"$@7","v":null,"s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#f7f2e8","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#13151a","media":"(prefers-color-scheme: dark)"}]]}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"My cards · American History Atlas"}],["$","meta","1",{"name":"description","content":"A curated, connected encyclopedia of American history, from Indigenous civilizations to the present, with sources for every entry."}],["$","meta","2",{"name":"application-name","content":"History Atlas"}],["$","link","3",{"rel":"manifest","href":"/manifest.webmanifest"}],["$","meta","4",{"name":"robots","content":"noindex"}],["$","meta","5",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","6",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"format-detection","content":"telephone=no"}],["$","meta","8",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","9",{"name":"apple-mobile-web-app-title","content":"History Atlas"}],["$","meta","10",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","11",{"rel":"icon","href":"/icons/favicon-32.png","sizes":"32x32","type":"image/png"}],["$","link","12",{"rel":"icon","href":"/icons/icon.svg","type":"image/svg+xml"}],["$","link","13",{"rel":"apple-touch-icon","href":"/icons/apple-touch-icon.png","sizes":"180x180"}],["$","$L18","14",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@19","v":null,"s":"$8"}},"a":"$@1a","u":"$@1b","b":"7nprJthQ5ZRQjal0tfiHZ"}
+12:null
+1b:true
+8:300
+8:C
+1a:0
+a:"$undefined"
+7:"$undefined"
+19:"$undefined"
+13:"$undefined"

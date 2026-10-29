@@ -1,0 +1,13 @@
+:HL["/_next/static/chunks/39x3hizg431a1.css","style"]
+:HL["/_next/static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/35161b7740c25d33-s.p.0izitdbyxo4j2.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5f402bd2d8eef81a-s.p.40bho2kviej2o.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/65c558afe41e89d6-s.p.3jppgd0xzx-0d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/70e3db2de7f94926-s.p.39pl-v7c3qrze.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9433d1a810498265-s.p.1hij5ex6k3v9q.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9c72aa0f40e4eef8-s.p.1y4-pdgsjb-pw.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/images/scenes/independence-hall-1920.webp","image",{"imageSrcSet":"/images/scenes/independence-hall-960.webp 960w, /images/scenes/independence-hall-1920.webp 1920w","imageSizes":"100vw","fetchPriority":"high"}]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"periods","h":64,"c":"$Q2"}]]
+0:{"b":"7nprJthQ5ZRQjal0tfiHZ","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

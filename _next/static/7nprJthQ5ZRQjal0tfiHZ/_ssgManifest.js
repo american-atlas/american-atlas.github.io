@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fentry\u002F[id]","\u002Fexplore\u002F[category]","\u002Fperiods\u002F[id]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
